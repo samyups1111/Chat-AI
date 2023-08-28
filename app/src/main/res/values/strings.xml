@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat AI</string>
+    <string name="chat_message_error">error</string>
+</resources>
